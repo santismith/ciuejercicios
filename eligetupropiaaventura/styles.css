@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  font-family: "Cinzel", serif;
+  color: white;
+  text-align: center;
+}
+
+.img {
+  width: 450px;
+  height: 450px;
+}
+
+.opcion1,
+.opcion2 {
+  font-size: 25px;
+}
