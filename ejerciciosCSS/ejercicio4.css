@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+.imperio {
+  background-color: red;
+}
+
+.rebeldes {
+  background-color: lightblue;
+}
+
+.soldado {
+  border-width: 3px;
+  border-color: black;
+  border-style: dashed solid;
+  letter-spacing: 5px;
+}
+
+.apoyo {
+  text-align: center;
+}
+
+.xwing {
+  width: 400px;
+  height: 500px;
+}
+.nave {
+  text-transform: uppercase;
+}
+
+#dvader {
+  font-size: 40px;
+}
+
+#luke {
+  font-style: italic;
+}
