@@ -2,7 +2,7 @@ var $body = document.querySelector("body")
 
 
 var seEjecutaEnEvento = function(){
-    $body.insertAdjacentHTML("beforeend","BEEP")
+    $body.insertAdjacentHTML("beforeend","<p>BEEP</p>")
     $body.classList.toggle("color")
 }
 
